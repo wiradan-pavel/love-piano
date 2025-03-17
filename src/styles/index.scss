@@ -1,14 +1,14 @@
-@import 'reset.scss';
-@import 'fonts.scss';
-@import 'var.scss';
+@use 'reset.scss';
+@use 'fonts.scss';
+@use 'var.scss';
 
 html {
   scroll-behavior: smooth;
 }
 
 body {
-  overflow-x: hidden;
-  // font-family: $poppins;
-  // color: $grey-898;
+  // overflow-x: hidden;
+  font-family: var.$graphik;
+  color: var.$grey;
   font-weight: 400;
 }
