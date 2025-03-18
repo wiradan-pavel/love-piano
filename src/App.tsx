@@ -1,11 +1,11 @@
-function App() {
+import { Header } from './components';
+
+const App = () => {
   return (
     <>
-      <div>
-        <h1>HHHHHH</h1>
-      </div>
+      <Header />
     </>
   );
-}
+};
 
 export default App;

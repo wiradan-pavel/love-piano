@@ -1,0 +1,285 @@
+{
+  "headerTop": "МАГАЗИНЫ ОТКРЫТЫ ПО НОВОМУ АДРЕСУ",
+  "location": "Санкт-Петербург",
+  "phone": {
+    "title": "8 (999) 888-77-66",
+    "url": "tel:89998887766"
+  },
+  "menuList": [
+    {
+      "id": 0,
+      "title": "Доставка",
+      "url": "#"
+    },
+    {
+      "id": 1,
+      "title": "Оплата",
+      "url": "#"
+    },
+    {
+      "id": 2,
+      "title": "Акции",
+      "url": "#"
+    },
+    {
+      "id": 3,
+      "title": "О нас",
+      "url": "#"
+    },
+    {
+      "id": 4,
+      "title": "Контакты",
+      "url": "#"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "svgSearch": true,
+      "url": "#"
+    }
+  ],
+  "favoritesList": [
+    {
+      "svgName": "compare",
+      "number": 0,
+      "url": "#"
+    },
+    {
+      "svgName": "liked",
+      "number": 0,
+      "url": "#"
+    },
+    {
+      "svgName": "delivery",
+      "number": 0,
+      "url": "#"
+    }
+  ],
+  "catalogTitle": "Каталог",
+  "catalogList": [
+    {
+      "id": 0,
+      "title": "Цифровые пианино",
+      "catalog": [
+        {
+          "id": 0,
+          "brand": "ALESIS",
+          "url": "#"
+        },
+        {
+          "id": 1,
+          "brand": "KURZWEIL",
+          "url": "#"
+        },
+        {
+          "id": 2,
+          "brand": "Artesia",
+          "url": "#"
+        },
+        {
+          "id": 3,
+          "brand": "ROCKDALE",
+          "url": "#"
+        },
+        {
+          "id": 4,
+          "brand": "Becker",
+          "url": "#"
+        },
+        {
+          "id": 5,
+          "brand": "ROLAND",
+          "url": "#"
+        },
+        {
+          "id": 6,
+          "brand": "CASIO",
+          "url": "#"
+        },
+        {
+          "id": 7,
+          "brand": "Ringway",
+          "url": "#"
+        },
+        {
+          "id": 8,
+          "brand": "JONSON&CO",
+          "url": "#"
+        },
+        {
+          "id": 9,
+          "brand": "StudioLogic",
+          "url": "#"
+        },
+        {
+          "id": 10,
+          "brand": "KAWAI",
+          "url": "#"
+        },
+        {
+          "id": 11,
+          "brand": "YAMAHA",
+          "url": "#"
+        },
+        {
+          "id": 12,
+          "brand": "KORG",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Синтезаторы",
+      "catalog": [
+        {
+          "id": 0,
+          "brand": "ROLAND",
+          "url": "#"
+        },
+        {
+          "id": 1,
+          "brand": "CASIO",
+          "url": "#"
+        },
+        {
+          "id": 2,
+          "brand": "Ringway",
+          "url": "#"
+        },
+        {
+          "id": 3,
+          "brand": "JONSON&CO",
+          "url": "#"
+        },
+        {
+          "id": 4,
+          "brand": "StudioLogic",
+          "url": "#"
+        },
+        {
+          "id": 5,
+          "brand": "KAWAI",
+          "url": "#"
+        },
+        {
+          "id": 6,
+          "brand": "YAMAHA",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Акустические пианино",
+      "catalog": [
+        {
+          "id": 1,
+          "brand": "KURZWEIL",
+          "url": "#"
+        },
+        {
+          "id": 2,
+          "brand": "Artesia",
+          "url": "#"
+        },
+        {
+          "id": 3,
+          "brand": "ROCKDALE",
+          "url": "#"
+        },
+        {
+          "id": 4,
+          "brand": "Becker",
+          "url": "#"
+        },
+        {
+          "id": 5,
+          "brand": "ROLAND",
+          "url": "#"
+        },
+        {
+          "id": 6,
+          "brand": "CASIO",
+          "url": "#"
+        },
+        {
+          "id": 7,
+          "brand": "Ringway",
+          "url": "#"
+        },
+        {
+          "id": 8,
+          "brand": "JONSON&CO",
+          "url": "#"
+        },
+        {
+          "id": 9,
+          "brand": "StudioLogic",
+          "url": "#"
+        },
+        {
+          "id": 10,
+          "brand": "KAWAI",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Аксессуары",
+      "catalog": [
+        {
+          "id": 3,
+          "brand": "ROCKDALE",
+          "url": "#"
+        },
+        {
+          "id": 4,
+          "brand": "Becker",
+          "url": "#"
+        },
+        {
+          "id": 5,
+          "brand": "ROLAND",
+          "url": "#"
+        },
+        {
+          "id": 6,
+          "brand": "CASIO",
+          "url": "#"
+        },
+        {
+          "id": 7,
+          "brand": "Ringway",
+          "url": "#"
+        },
+        {
+          "id": 8,
+          "brand": "JONSON&CO",
+          "url": "#"
+        },
+        {
+          "id": 9,
+          "brand": "StudioLogic",
+          "url": "#"
+        },
+        {
+          "id": 10,
+          "brand": "KAWAI",
+          "url": "#"
+        },
+        {
+          "id": 11,
+          "brand": "YAMAHA",
+          "url": "#"
+        },
+        {
+          "id": 12,
+          "brand": "KORG",
+          "url": "#"
+        }
+      ]
+    }
+  ]
+}
